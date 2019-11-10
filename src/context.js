@@ -1,6 +1,5 @@
 import React from 'react';
 import items from './data';
-import { createRequireFromPath } from 'module';
 
 const RoomContext = React.createContext();
 
